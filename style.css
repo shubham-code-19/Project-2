@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+#yellow{
+    background-color: #ffbf23;
+    color: #000000;
+    font-weight: bolder;
+}
+#yellow:hover{
+    color: #ffbf23;
+    background-color: #000000;
+    
+}
+#shubham{
+   font-size: 25px;
+font-weight: bolder;
+}
+#nav-background{
+    background-image: linear-gradient(to right ,#e67e22, yellow);
+}
+#btnblack{
+    background-color: black;
+    color: white;
+    font-weight: bolder;
+    width: 110px;
+    height: 35px;
+}
+#btnblack:hover{
+    background-color: #ffbf23;
+    color: #000000;
+   
+}
+
+.bgyellow{
+    background-color: #ffbf23;
+
+}
+#webdigitalai{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bolder;
+
+}
+.decoration{
+    text-decoration: none;
+}
+h4{
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+#dsn{
+   background-image: linear-gradient(black,yellow);
+}
+#ow{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.formandmap{
+  background-image: linear-gradient(gray,black);
+   font-weight: bolder;
+}
